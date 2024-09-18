@@ -1,0 +1,2 @@
+# automatizacion
+clase_2
